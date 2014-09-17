@@ -1,3 +1,4 @@
+//source code for website
 <?php
 require_once('./snaphax.php');
 $key = 'somekey';
